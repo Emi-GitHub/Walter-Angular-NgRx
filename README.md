@@ -1,4 +1,6 @@
-# WALTER
+# ANGULAR AND NGRG
+
+## WALTER APP
 
 1. Download
 2. npm install
@@ -29,4 +31,4 @@
 
 <img src="./src/assets/deilys-edit.png">
 
-<a href="https://github.com/Emi-GitHub/Walter-Angular-NgRx/zadatak.pdf">Click here to open TASK</a>
+<a href="https://github.com/Emi-GitHub/Walter-Angular-NgRx/blob/main/zadatak.pdf">Click here to open TASK</a>
