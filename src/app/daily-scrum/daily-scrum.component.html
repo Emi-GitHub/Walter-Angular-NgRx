@@ -96,10 +96,14 @@
               <span (click)="dismissDelay()"><i class="close icon"></i></span>
             </td>
             <td>
-              <input type="text" value="{{ daily.name }}" #editedDailyName />
+              <div class="ui input">
+                <input type="text" value="{{ daily.name }}" #editedDailyName />
+              </div>
             </td>
             <td>
-              <input type="text" value="{{ daily.time }}" #editedDailyTime />
+              <div class="ui input">
+                <input type="text" value="{{ daily.time }}" #editedDailyTime />
+              </div>
             </td>
             <td>{{ daily.onTime }}</td>
           </ng-container>
