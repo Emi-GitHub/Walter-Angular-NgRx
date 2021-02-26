@@ -1,6 +1,4 @@
-# ANGULAR AND NGRG
-
-## WALTER APP
+# WALTER (ANGULAR AND NGRG)
 
 1. Download
 2. npm install
@@ -23,11 +21,11 @@
 
 <img src="./src/assets/employees-edit.png">
 
-## Deily scrum page
+## Daily scrum page
 
 <img src="./src/assets/deilys.png">
 
-## Deily scrum edit page
+## Daily scrum edit page
 
 <img src="./src/assets/deilys-edit.png">
 
