@@ -4,7 +4,14 @@
 2. npm install
 3. npm start
 
-<a href="https://walter-angular-ng-rx.vercel.app/">Click Here</a>
+# FUNCTIONALITY
+
+<ul>
+<li>Add</li>
+<li>Edit</li>
+<li>Delete</li>
+<li>Search</li>
+</ul>
 
 ## Employees page
 
@@ -21,3 +28,5 @@
 ## Deily scrum edit page
 
 <img src="./src/assets/deilys-edit.png">
+
+<a href="https://github.com/Emi-GitHub/Walter-Angular-NgRx/zadatak.pdf">Click here to open TASK</a>
