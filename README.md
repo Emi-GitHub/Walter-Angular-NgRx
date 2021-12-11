@@ -1,4 +1,4 @@
-# WALTER (ANGULAR AND NGRG)
+# WALTER (ANGULAR AND NGRX)
 
 1. Download
 2. npm install
